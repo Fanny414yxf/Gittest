@@ -7,6 +7,7 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "ECDeviceHeaders.h"
 
 @interface ViewController : UIViewController
 
